@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Task2.1P</string>
+    <string name="choose_conversation_type">Choose Convert Type</string>
+    <string name="choose_source_unit">Choose Source Unit</string>
+    <string name="choose_target_unit">Choose Target Unit</string>
+    <string name="enter_value">Enter a value</string>
+    <string name="convert">Convert</string>
+    <string name="result_display">Result Display</string>
+    <string name="invalid_input">Invalid Input</string>
+
+    <string-array name="type_units">
+        <item>Length</item>
+        <item>Weight</item>
+        <item>Temperature</item>
+    </string-array>
+
+    <string-array name="length_units">
+        <item>inch</item>
+        <item>foot</item>
+        <item>yard</item>
+        <item>mile</item>
+        <item>cm</item>
+        <item>km</item>
+    </string-array>
+
+    <string-array name="weight_units">
+        <item>pound</item>
+        <item>ounce</item>
+        <item>ton</item>
+        <item>kg</item>
+        <item>g</item>
+    </string-array>
+
+    <string-array name="temperature_units">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+
+</resources>
